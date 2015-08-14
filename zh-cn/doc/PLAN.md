@@ -3667,7 +3667,7 @@
         -   balance
         -   cleancache.txt
         -   frontswap.txt
-        -   highmem.txt
+        -   highmem.txt(@[dongfu8107])
         -   hugetlbpage.txt
         -   hwpoison.txt
         -   ksm.txt
